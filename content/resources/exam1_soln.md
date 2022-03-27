@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2a64bd66-acb4-55da-b8b8-36ec4fcd1736
 resourcetype: Document
 title: exam1_soln.pdf
 uid: 240957e6-932e-8534-4f58-94f3a9e8040a

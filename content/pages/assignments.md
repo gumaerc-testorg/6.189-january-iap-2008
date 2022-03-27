@@ -50,11 +50,11 @@ Lab 4 covered control flow with while statements.
 {{< tdopen >}}
 
 
-login.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/login.py))
+login.py ([PY]({{< baseurl >}}/resources/login))
 
-nims1.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/nims1.py))
+nims1.py ([PY]({{< baseurl >}}/resources/nims1))
 
-nims2.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/nims2.py))
+nims2.py ([PY]({{< baseurl >}}/resources/nims2))
 
 
 {{< tdclose >}}
@@ -70,9 +70,9 @@ Lab 5 covered the use of lists in storing a dynamic number of values.
 {{< tdopen >}}
 
 
-sorting.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/sorting.py))
+sorting.py ([PY]({{< baseurl >}}/resources/sorting))
 
-reportcard.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/reportcard.py))
+reportcard.py ([PY]({{< baseurl >}}/resources/reportcard))
 
 
 {{< tdclose >}}
@@ -88,9 +88,9 @@ Lab 6 covered the use of tuples instead of lists and their similarity with strin
 {{< tdopen >}}
 
 
-collision.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/collision.py))
+collision.py ([PY]({{< baseurl >}}/resources/collision))
 
-piglatin.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/piglatin.py))
+piglatin.py ([PY]({{< baseurl >}}/resources/piglatin))
 
 
 {{< tdclose >}}
@@ -134,7 +134,7 @@ Lab 8 covered the use of member functions in various objects.
 ([PDF]({{< baseurl >}}/resources/lab8))
 {{< tdclose >}}
 {{< tdopen >}}
-genetic.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/genetic.py))
+genetic.py ([PY]({{< baseurl >}}/resources/genetic))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,19 +147,19 @@ Lab 9 covered the use and syntax of dictionaries. The bulk of the lab was to exp
 
 ([PDF]({{< baseurl >}}/resources/lab9))
 
-namesages.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/namesages.py))
+namesages.py ([PY]({{< baseurl >}}/resources/namesages))
 
-websearch1.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/websearch1.py))
+websearch1.py ([PY]({{< baseurl >}}/resources/websearch1))
 
-webindexer1.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/webindexer1.py))
+webindexer1.py ([PY]({{< baseurl >}}/resources/webindexer1))
 
-htmltext.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/htmltext.py))
+htmltext.py ([PY]({{< baseurl >}}/resources/htmltext))
 
-smallsites.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/smallsites.txt))
+smallsites.txt ([TXT]({{< baseurl >}}/resources/smallsites))
 
-mitsites20.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/mitsites20.txt))
+mitsites20.txt ([TXT]({{< baseurl >}}/resources/mitsites20))
 
-mitsites50.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/mitsites50.txt))
+mitsites50.txt ([TXT]({{< baseurl >}}/resources/mitsites50))
 
 localsites.zip ([ZIP]({{< baseurl >}}/resources/localsites))
 
@@ -168,9 +168,9 @@ localsites.zip ([ZIP]({{< baseurl >}}/resources/localsites))
 {{< tdopen >}}
 
 
-namesages\_soln.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/namesages_soln.py))
+namesages\_soln.py ([PY]({{< baseurl >}}/resources/namesages_soln))
 
-webindexer1\_soln.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/webindexer1_soln.py))
+webindexer1\_soln.py ([PY]({{< baseurl >}}/resources/webindexer1_soln))
 
 
 {{< tdclose >}}
@@ -185,20 +185,20 @@ Lab 10 covered a more advanced use of dictionaries. The bulk of the lab was to i
 
 ([PDF]({{< baseurl >}}/resources/lab10))
 
-inventory.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/inventory.py))
+inventory.py ([PY]({{< baseurl >}}/resources/inventory))
 
-websearch2.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/websearch2.py))
+websearch2.py ([PY]({{< baseurl >}}/resources/websearch2))
 
-webindexer2.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/webindexer2.py))
+webindexer2.py ([PY]({{< baseurl >}}/resources/webindexer2))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-inventory\_soln.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/inventory_soln.py))
+inventory\_soln.py ([PY]({{< baseurl >}}/resources/inventory_soln))
 
-webindexer2\_soln.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/webindexer2_soln.py))
+webindexer2\_soln.py ([PY]({{< baseurl >}}/resources/webindexer2_soln))
 
 
 {{< tdclose >}}

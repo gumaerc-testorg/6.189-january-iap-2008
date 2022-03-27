@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 647ec78d-ce25-991a-1d58-c5306ef23f53
 resourcetype: Document
 title: operator.pdf
 uid: 6a1d2475-4b9b-468c-5dd9-fdb42b56a16e

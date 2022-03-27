@@ -12,9 +12,9 @@ Project 1 – Hangman
 
 Project 1 ([PDF]({{< baseurl >}}/resources/project1)) was the game of Hangman. The handout guides you through the process. This process is called _incremental programming_. It allows you to tackle complex problems, like writing a game of Hangman, by tackling small sub-tasks first. In this case, we can tackle the problems of figuring out whether the user has guessed the word, or creating a string of the word with the letters guessed so far. With the sub-tasks taken care of, it's easier to take on the bigger task.
 
-Optional project files: word list ([TXT](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/projects/word_list.txt)) contains many words; hangman\_lib.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/projects/hangman_lib.py)) contains helper functions to get a random word and to print a Hangman image; hangman.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/projects/hangman.py)) contains example usage of hangman\_lib.
+Optional project files: word list ([TXT]({{< baseurl >}}/resources/word_list)) contains many words; hangman\_lib.py ([PY]({{< baseurl >}}/resources/hangman_lib)) contains helper functions to get a random word and to print a Hangman image; hangman.py ([PY]({{< baseurl >}}/resources/hangman)) contains example usage of hangman\_lib.
 
-Example solution: hangman\_soln.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/projects/hangman_soln.py)) (needs to be in same directory as above files)
+Example solution: hangman\_soln.py ([PY]({{< baseurl >}}/resources/hangman_soln)) (needs to be in same directory as above files)
 
 Project 2 – Guitar Hero Clone
 -----------------------------
@@ -30,7 +30,7 @@ Many of you asked for us to write a tic-tac-toe program as one of our sample pro
 
 I've written another version, with a different goal: to be polished. My implementation is considerably different, and that's fine; we all have different styles of programming. Take a look. It's extensively commented, but feel free to email with questions.
 
-File: tictactoe.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/projects/tictactoe.py))
+File: tictactoe.py ([PY]({{< baseurl >}}/resources/tictactoe))
 
 Sample Program 2 – Connect Four
 -------------------------------
@@ -41,4 +41,4 @@ There are some Python things in the code that you may not know yet. The assert s
 
 So take a look. It's not quite so extensively commented as the Tic-Tac-Toe program, so feel free to email me with questions.
 
-File: connectfour.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/projects/connectfour.py))
+File: connectfour.py ([PY]({{< baseurl >}}/resources/connectfour))
