@@ -2,7 +2,7 @@
 content_type: resource
 description: Text file containing a list of 20 websites provided as a supporting file
   to Lab 9.
-file: /media/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/39a3102fe3afcd9d6a5ae6079b039f00_mitsites20.txt
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/39a3102fe3afcd9d6a5ae6079b039f00_mitsites20.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Other
 title: mitsites20.txt
 uid: 39a3102f-e3af-cd9d-6a5a-e6079b039f00
 ---
+Text file containing a list of 20 websites provided as a supporting file to Lab 9.
+

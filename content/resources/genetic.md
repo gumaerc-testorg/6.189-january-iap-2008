@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Python computer program provided as a solution to Lab 8.
-file: /media/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/bfea0c8b6483d4fc187edd3b4c93556e_genetic.py
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/bfea0c8b6483d4fc187edd3b4c93556e_genetic.py
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: genetic.py
 uid: bfea0c8b-6483-d4fc-187e-dd3b4c93556e
 ---
+Python computer program provided as a solution to Lab 8.
+

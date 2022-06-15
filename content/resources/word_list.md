@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A list of words provided as a supplement to Project 1.
-file: /media/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/505ed63e7ecda091d884e02ad7726599_word_list.txt
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/505ed63e7ecda091d884e02ad7726599_word_list.txt
 file_type: text/plain
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Other
 title: word_list.txt
 uid: 505ed63e-7ecd-a091-d884-e02ad7726599
 ---
+A list of words provided as a supplement to Project 1.
+

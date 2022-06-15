@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, course
+  topics, administrative details, and installing Python.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 8d6a7755-9881-1eab-94fd-8b8e022b2573
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

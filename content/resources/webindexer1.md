@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Python computer program provided as a supporting file to Lab 9.
-file: /media/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/b739d7db6df627f0fbfc298b89dbbf16_webindexer1.py
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/b739d7db6df627f0fbfc298b89dbbf16_webindexer1.py
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: webindexer1.py
 uid: b739d7db-6df6-27f0-fbfc-298b89dbbf16
 ---
+Python computer program provided as a supporting file to Lab 9.
+

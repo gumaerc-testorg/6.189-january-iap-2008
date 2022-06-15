@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Python computer program provided as a solution to Lab 6.
-file: /media/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/e9e285224c2e7cb5ed4bbea90725099f_piglatin.py
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/e9e285224c2e7cb5ed4bbea90725099f_piglatin.py
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: piglatin.py
 uid: e9e28522-4c2e-7cb5-ed4b-bea90725099f
 ---
+Python computer program provided as a solution to Lab 6.
+

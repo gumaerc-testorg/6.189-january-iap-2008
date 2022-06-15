@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Python computer program provided as a solution to Lab 4.
-file: /media/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/aa10d0e236b6e2c9ea375cd82e59cadf_nims1.py
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/aa10d0e236b6e2c9ea375cd82e59cadf_nims1.py
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: nims1.py
 uid: aa10d0e2-36b6-e2c9-ea37-5cd82e59cadf
 ---
+Python computer program provided as a solution to Lab 4.
+

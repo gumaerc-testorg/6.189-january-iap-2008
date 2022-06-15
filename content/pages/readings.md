@@ -1,10 +1,17 @@
 ---
 content_type: page
+description: This section provides information on the course textbook links to individual
+  chapters, and a link to a Python Quick Reference that lists and explains all of
+  Python's built-in functions and behavior.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 4feae92d-d7ec-5ce7-2b56-6ce96ec296d9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Textbook

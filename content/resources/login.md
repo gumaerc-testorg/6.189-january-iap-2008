@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Python computer program provided as a solution to Lab 4.
-file: /media/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/0308ce988bb2fc2fa3ecaf2a49b6aa69_login.py
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/0308ce988bb2fc2fa3ecaf2a49b6aa69_login.py
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: login.py
 uid: 0308ce98-8bb2-fc2f-a3ec-af2a49b6aa69
 ---
+Python computer program provided as a solution to Lab 4.
+
