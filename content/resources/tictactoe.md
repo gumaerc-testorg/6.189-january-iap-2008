@@ -5,6 +5,7 @@ file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-i
 file_type: text/plain
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tictactoe.py
 uid: 991ff5e6-3989-5ef1-7e01-2df5cc59d6e0
 ---
 Sample program written in Python to demonstrate a polished implementation.
-

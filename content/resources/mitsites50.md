@@ -6,6 +6,7 @@ file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-i
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: mitsites50.txt
 uid: 5bb15eca-cf39-1521-fd62-5793ef1a227c
 ---
 Text file containing a list of 50 websites provided as a supporting file to Lab 9.
-

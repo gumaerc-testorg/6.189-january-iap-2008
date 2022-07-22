@@ -5,6 +5,7 @@ file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-i
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: namesages_soln.py
 uid: 2a5cd162-4ce6-4153-031b-6ca7cc4b87a3
 ---
 Python computer program provided as a solution to Lab 4.
-

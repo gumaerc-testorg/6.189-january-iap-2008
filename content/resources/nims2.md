@@ -5,6 +5,7 @@ file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-i
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: nims2.py
 uid: 7d8356ce-b1c4-3021-1771-83186cde0ffc
 ---
 Python computer program provided as a solution to Lab 4.
-

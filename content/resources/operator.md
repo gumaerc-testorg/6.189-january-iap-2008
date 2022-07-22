@@ -6,6 +6,7 @@ file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-i
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Cheat sheet on some of the various arithmetic and boolean (comparison, equality, and logic) operators covered in the course.
-

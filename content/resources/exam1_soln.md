@@ -7,6 +7,7 @@ file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-i
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Solutions to the first exam. Exam 1 (Session 5) covered everything through class 3: variables, types, operators, functions, conditionals and loops. The solutions double as notes for sessions 1 through 3.
-

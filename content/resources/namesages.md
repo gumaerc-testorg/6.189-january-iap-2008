@@ -5,6 +5,7 @@ file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-i
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: namesages.py
 uid: 78d40094-f200-7c2c-2618-93871dceed51
 ---
 Python computer program provided as a supporting file to Lab 9.
-

@@ -7,6 +7,7 @@ file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-i
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes and homework assignment from Session 6.  Topics include list basics, objects and references, mutability, member functions, lists redux, advanced positioning and slicing, range function, for loop, and basic advanced loops.
-
