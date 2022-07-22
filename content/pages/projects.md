@@ -1,17 +1,25 @@
 ---
 content_type: page
+description: This section provides information on the course projects.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: ce7d4f4a-59ad-4d14-4592-be7641ff9daf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Project 1 – Hangman
 -------------------
 
-Project 1 ([PDF]({{< baseurl >}}/resources/project1)) was the game of Hangman. The handout guides you through the process. This process is called _incremental programming_. It allows you to tackle complex problems, like writing a game of Hangman, by tackling small sub-tasks first. In this case, we can tackle the problems of figuring out whether the user has guessed the word, or creating a string of the word with the letters guessed so far. With the sub-tasks taken care of, it's easier to take on the bigger task.
+Project 1 ({{% resource_link 6b3bd210-f97d-0a35-9b72-cbacb174028c "PDF" %}}) was the game of Hangman. The handout guides you through the process. This process is called _incremental programming_. It allows you to tackle complex problems, like writing a game of Hangman, by tackling small sub-tasks first. In this case, we can tackle the problems of figuring out whether the user has guessed the word, or creating a string of the word with the letters guessed so far. With the sub-tasks taken care of, it's easier to take on the bigger task.
 
-Optional project files: word list ([TXT](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/projects/word_list.txt)) contains many words; hangman\_lib.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/projects/hangman_lib.py)) contains helper functions to get a random word and to print a Hangman image; hangman.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/projects/hangman.py)) contains example usage of hangman\_lib.
+Optional project files: word list ({{% resource_link 505ed63e-7ecd-a091-d884-e02ad7726599 "TXT" %}}) contains many words; hangman\_lib.py ({{% resource_link 5db9c3ed-1a63-646b-2a39-154bb98947d0 "PY" %}}) contains helper functions to get a random word and to print a Hangman image; hangman.py ({{% resource_link 520ca17a-0526-01b8-8e01-377e0e2882ea "PY" %}}) contains example usage of hangman\_lib.
 
-Example solution: hangman\_soln.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/projects/hangman_soln.py)) (needs to be in same directory as above files)
+Example solution: hangman\_soln.py ({{% resource_link 477a7b86-e8c5-0486-b48c-02363f720bef "PY" %}}) (needs to be in same directory as above files)
 
 Project 2 – Guitar Hero Clone
 -----------------------------
@@ -27,7 +35,7 @@ Many of you asked for us to write a tic-tac-toe program as one of our sample pro
 
 I've written another version, with a different goal: to be polished. My implementation is considerably different, and that's fine; we all have different styles of programming. Take a look. It's extensively commented, but feel free to email with questions.
 
-File: tictactoe.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/projects/tictactoe.py))
+File: tictactoe.py ({{% resource_link 991ff5e6-3989-5ef1-7e01-2df5cc59d6e0 "PY" %}})
 
 Sample Program 2 – Connect Four
 -------------------------------
@@ -38,4 +46,4 @@ There are some Python things in the code that you may not know yet. The assert s
 
 So take a look. It's not quite so extensively commented as the Tic-Tac-Toe program, so feel free to email me with questions.
 
-File: connectfour.py ([PY](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/projects/connectfour.py))
+File: connectfour.py ({{% resource_link e158cc0d-1bac-8d22-1523-704ec177eb9a "PY" %}})
