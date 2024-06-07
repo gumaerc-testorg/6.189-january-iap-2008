@@ -3,6 +3,7 @@ content_type: resource
 description: 'Instructions for Lab 8: Working with Objects. Lab 8 covered the use
   of member functions in various objects.'
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/42fc2a54dbb8983e0be8cadfbd26a3ff_lab8.pdf
+file_size: 19022
 file_type: application/pdf
 learning_resource_types:
 - Assignments

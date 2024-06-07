@@ -2,6 +2,7 @@
 content_type: resource
 description: Optional homework assignment on loops.
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/7fef0cb6f5a93e432e4f644cfa3de760_notes7.pdf
+file_size: 99954
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

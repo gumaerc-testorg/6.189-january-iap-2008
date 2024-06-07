@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture handout on objects, aliasing, and scope.
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/351789772d3cd3ecabb53b4c56f81d64_handout3.pdf
+file_size: 209587
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

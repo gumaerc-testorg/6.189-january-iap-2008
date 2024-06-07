@@ -2,6 +2,7 @@
 content_type: resource
 description: Python computer program provided as a solution to Lab 10.
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/cdd02bd536a8e0b448d19c3526e1db52_webindexer2_soln.py
+file_size: 2615
 file_type: text/plain
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: Python computer program provided as a supporting file to Lab 10.
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/4e37c0f7b3fb58af3fd896e37d088b1a_inventory.py
+file_size: 2038
 file_type: text/plain
 learning_resource_types:
 - Assignments
