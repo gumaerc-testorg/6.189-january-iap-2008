@@ -3,6 +3,7 @@ content_type: resource
 description: Python computer program provided as a supporting file to Project 1 contains
   helper functions to get a random word and to print a Hangman image.
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/5db9c3ed1a63646b2a39154bb98947d0_hangman_lib.py
+file_size: 4465
 file_type: text/plain
 learning_resource_types:
 - Projects

@@ -2,6 +2,7 @@
 content_type: resource
 description: Python computer program provided as a solution to Lab 6.
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/e9e285224c2e7cb5ed4bbea90725099f_piglatin.py
+file_size: 2022
 file_type: text/plain
 learning_resource_types:
 - Assignments

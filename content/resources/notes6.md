@@ -4,6 +4,7 @@ description: Lecture notes and homework assignment from Session 6.  Topics inclu
   list basics, objects and references, mutability, member functions, lists redux,
   advanced positioning and slicing, range function, for loop, and basic advanced loops.
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/a6cad15cd20526492757bc096a4a9d7f_notes6.pdf
+file_size: 558126
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
