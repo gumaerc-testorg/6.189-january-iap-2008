@@ -2,6 +2,7 @@
 content_type: resource
 description: Python computer program provided as a solution to Lab 5.
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/a86a0ff09e86fdc3a0e7dd64a7c3e6bb_sorting.py
+file_size: 563
 file_type: text/plain
 learning_resource_types:
 - Assignments

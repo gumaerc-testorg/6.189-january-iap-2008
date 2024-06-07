@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture handout with a review of while loops and the basics of for loops.
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/87f5c450eb6ae3779b2b0198fedafbea_handout1.pdf
+file_size: 208469
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
