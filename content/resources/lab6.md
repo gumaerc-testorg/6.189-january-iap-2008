@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Instructions for Lab 6: Tuples and Strings. Lab 6 covered the use of
   tuples instead of lists and their similarity with strings.'
-file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/caf21161eee553abc08ee9618bee7821_lab6.pdf
+file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/caf21161eee553abc08ee9618bee7821_lab6.pdf
 file_size: 17024
 file_type: application/pdf
 learning_resource_types:

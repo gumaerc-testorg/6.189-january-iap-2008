@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Instructions for completing Project 1: Hangman.'
-file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/6b3bd210f97d0a359b72cbacb174028c_project1.pdf
+file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/6b3bd210f97d0a359b72cbacb174028c_project1.pdf
 file_size: 115466
 file_type: application/pdf
 learning_resource_types:
