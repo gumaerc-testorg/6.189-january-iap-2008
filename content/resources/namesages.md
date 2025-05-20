@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Python computer program provided as a supporting file to Lab 9.
-file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/78d40094f2007c2c261893871dceed51_namesages.py
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/78d40094f2007c2c261893871dceed51_namesages.py
 file_size: 778
 file_type: text/plain
 learning_resource_types:

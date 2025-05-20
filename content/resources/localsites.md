@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Archive of web content for use with Lab 9.
-file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/b66443429ea6028eed90641b5e40b9f7_localsites.zip
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/b66443429ea6028eed90641b5e40b9f7_localsites.zip
 file_size: 595328
 file_type: application/zip
 learning_resource_types:
