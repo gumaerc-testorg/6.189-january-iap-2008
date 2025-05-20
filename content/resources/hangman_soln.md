@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Python computer program provided as an example solution to Project 1.
-file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/477a7b86e8c50486b48c02363f720bef_hangman_soln.py
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/477a7b86e8c50486b48c02363f720bef_hangman_soln.py
 file_size: 4932
 file_type: text/plain
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Instructions for Lab 4: Control Flow with While. Lab 4 covered control
   flow with while statements.'
-file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/6faeb3af6a54f7668cd269a3ab66f49f_lab4.pdf
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/6faeb3af6a54f7668cd269a3ab66f49f_lab4.pdf
 file_size: 25315
 file_type: application/pdf
 learning_resource_types:

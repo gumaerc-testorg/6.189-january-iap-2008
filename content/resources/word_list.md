@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A list of words provided as a supplement to Project 1.
-file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/505ed63e7ecda091d884e02ad7726599_word_list.txt
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/505ed63e7ecda091d884e02ad7726599_word_list.txt
 file_size: 1486
 file_type: text/plain
 learning_resource_types:

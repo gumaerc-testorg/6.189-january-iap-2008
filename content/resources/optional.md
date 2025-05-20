@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Optional assignment on how a computer works.
-file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/022163a7b3dcfc52d57bcc71802afceb_optional.pdf
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/022163a7b3dcfc52d57bcc71802afceb_optional.pdf
 file_size: 259723
 file_type: application/pdf
 learning_resource_types:

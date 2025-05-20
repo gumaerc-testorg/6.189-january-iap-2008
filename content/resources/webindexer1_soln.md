@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Python computer program provided as a solution to Lab 9.
-file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/4ffd00effbaee4bc03d6bcae2d38f9cb_webindexer1_soln.py
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/4ffd00effbaee4bc03d6bcae2d38f9cb_webindexer1_soln.py
 file_size: 2136
 file_type: text/plain
 learning_resource_types:
