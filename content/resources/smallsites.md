@@ -2,7 +2,7 @@
 content_type: resource
 description: Text file containing a list of websites provided as a supporting file
   to Lab 9.
-file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/224abc3a7686524f3f571a13f55884e9_smallsites.txt
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/224abc3a7686524f3f571a13f55884e9_smallsites.txt
 file_size: 209
 file_type: text/plain
 learning_resource_types:

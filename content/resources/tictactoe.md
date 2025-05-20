@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample program written in Python to demonstrate a polished implementation.
-file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/991ff5e639895ef17e012df5cc59d6e0_tictactoe.py
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/991ff5e639895ef17e012df5cc59d6e0_tictactoe.py
 file_size: 14821
 file_type: text/plain
 learning_resource_types:
