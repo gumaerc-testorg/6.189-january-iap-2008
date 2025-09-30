@@ -17,11 +17,11 @@ video_metadata:
 Textbook
 --------
 
-The course textbook is [_How to Think Like a Computer Scientist_](http://www.greenteapress.com/thinkpython/thinkCSpy/), through Chapter 12 (classes and objects). Links to individual chapters can be found [here](http://www.greenteapress.com/thinkpython/thinkCSpy/html/).
+The course textbook is {{% resource_link "677aea7b-163f-4217-8860-7789815d2a96" "_How to Think Like a Computer Scientist_" %}}, through Chapter 12 (classes and objects). Links to individual chapters can be found {{% resource_link "82b41b40-0f1b-4127-a4e7-bb32d3e138f3" "here" %}}.
 
 The lectures stick with the order of the textbook for the most part, but not always.
 
 Links
 -----
 
-The [Python Quick Reference (2.4)](http://rgruet.free.fr/PQR24/PQR2.4.html) lists and explains all of Python's built-in functions and behavior.
+The {{% resource_link "588c6649-7d23-4800-9fe2-1498f17bfb94" "Python Quick Reference (2.4)" %}} lists and explains all of Python's built-in functions and behavior.

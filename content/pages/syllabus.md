@@ -139,12 +139,12 @@ There is an optional assignment that you can work on when you have free time, e.
 
 ### Textbook
 
-This class uses readings from the online textbook _How to Think Like a Computer Scientist_ — it's always nice to have two perspectives on concepts. You can find this textbook [here](http://www.greenteapress.com/thinkpython/thinkCSpy/).
+This class uses readings from the online textbook _How to Think Like a Computer Scientist_ — it's always nice to have two perspectives on concepts. You can find this textbook {{% resource_link "677aea7b-163f-4217-8860-7789815d2a96" "here" %}}.
 
 Python Installation
 -------------------
 
-You can get the latest version [here](http://www.python.org/).
+You can get the latest version {{% resource_link "5ff15f74-6abe-4b15-b5de-e66c360937dc" "here" %}}.
 
 *   Linux and Mac OS X users: You should already have Python installed — to test this, run the command _Python_ in console mode. Note that the first line tells you the version number; you may want to upgrade your installation if you have a version earlier than 2.3.
 *   Windows users: Grab the Windows installer from the Downloads section. After installation, you can run the IDLE _(Python GUI)_ command from the Start menu.
